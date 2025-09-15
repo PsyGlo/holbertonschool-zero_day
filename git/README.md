@@ -1,1 +1,1 @@
-My first readme
+Git setup and version control fundamentals.
