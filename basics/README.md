@@ -1,6 +1,6 @@
 # Shell Scripts for Basics Project
 
-This directory contains simple shell scripts and bash command introduction as part of the Holberton School curriculum.
+Basic System command exercises.
 
 ## Scripts
 
