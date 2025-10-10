@@ -15,4 +15,4 @@ Exercices de commandes système de base.﻿
 ## Scripts﻿
 
 - **0-current_working_directory**
-  - **Description:**﻿ Affiche le chemin absolu du répertoire de travail actuel.﻿
+  - **Description:** Affiche le chemin absolu du répertoire de travail actuel.﻿
