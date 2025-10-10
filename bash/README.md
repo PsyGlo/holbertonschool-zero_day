@@ -1,7 +1,7 @@
 # Holberton School - Bash Directory 
 
-*This README contains both English and French versions for clarity.
-*Ce fichier README contient les versions en anglais et en g=français pour plus de clarté.
+* This README contains both English and French versions for clarity.
+* Ce fichier README contient les versions en anglais et en français pour plus de clarté.
 
 ---
 ## English Version
